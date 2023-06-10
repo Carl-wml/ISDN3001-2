@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="wholeBody">
+    <file>WhatsApp Image 2023-05-29 at 18.48.30.jpg</file>
+    <file>3002 final model render 200.jpg</file>
+    <file>productImage.png</file>
+  </qresource>
+  <qresource prefix="otherImage">
+    <file>1.jpg</file>
+    <file>play.png</file>
+    <file>2.jpg</file>
+    <file>3.jpg</file>
+    <file>WhatsApp Image 2023-05-29 at .jpg</file>
+    <file>WhatsApp Image 2023-05-29 at 18..jpg</file>
+    <file>WhatsApp Image 2023-05-29 at 18.1.jpg</file>
+    <file>WhatsApp Image 2023-05-29 at 18.17.40.jpg</file>
+    <file>WhatsApp Image 2023-05-29 at 18.17.41.jpg</file>
+    <file>underwater_animals.jpg</file>
+    <file>function list.png</file>
+  </qresource>
+</RCC>
